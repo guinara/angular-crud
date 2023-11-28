@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 5.98
+    },
+    {
+      "id": 2,
+      "name": "IPhone 15",
+      "price": 13674.45
+    },
+    {
+      "id": 3,
+      "name": "Samsung note 4",
+      "price": 5435.45
+    },
+    {
+      "name": "pc gamer",
+      "price": "4235",
+      "id": 4
+    },
+    {
+      "name": "Chuteira",
+      "price": "200.53",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "\"Samsung note 4\"",
+      "price": "5435.45",
+      "id": 8
+    }
+  ]
+}
