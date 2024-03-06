@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC",
-      "price": 5.98
-    },
-    {
       "id": 2,
       "name": "IPhone 15",
       "price": 13674.45
@@ -26,15 +21,29 @@
       "id": 5
     },
     {
-      "id": 6
+      "id": 6,
+      "name": "Drone",
+      "price": 8234.53
     },
     {
-      "id": 7
+      "id": 7,
+      "name": "Iphone 15 turbo",
+      "price": 19566.53
     },
     {
-      "name": "\"Samsung note 4\"",
-      "price": "5435.45",
+      "name": "Pixel 8",
+      "price": "7345.55",
       "id": 8
+    },
+    {
+      "name": "Produto lorem",
+      "price": 124.53,
+      "id": 9
+    },
+    {
+      "name": "Teste",
+      "price": "32.00",
+      "id": 10
     }
   ]
 }
